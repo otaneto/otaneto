@@ -1,6 +1,6 @@
 ### Hi there! My name is Otacílio, but you can call me Ota 😎
 
-- 💗 I really love Vue.js, but I also work with ⚛ React!
+- Front-end developer, currently working with ⚛React and Vue.js 💚!
 
 - 🌱 I’m currently learning Nuxt.js, Next.js and some new CSS tricks 🎩
 
