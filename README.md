@@ -1,4 +1,4 @@
-### Hi there! My name is Otacílio, but you can call me Ota 😎
+### Hi there! My name is Otacílio aka Ota 😎
 
 - Front-end developer, currently working with ⚛React and Vue.js 💚!
 
