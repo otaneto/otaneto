@@ -2,7 +2,7 @@
 
 - Front-end developer, currently working with ⚛React and Vue.js 💚!
 
-- 🌱 I’m currently learning Nuxt.js, Next.js and some new CSS tricks 🎩
+- 🌱 I’m learning Nuxt.js, Next.js, 🐋 Docker and some new CSS tricks 🎩
 
 - 📫 You can find me on:
   - LinkedIn: https://www.linkedin.com/in/otaneto/
