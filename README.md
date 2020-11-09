@@ -6,5 +6,4 @@
 
 - 📫 You can find me on:
   - LinkedIn: https://www.linkedin.com/in/otaneto/
-  - Twitter: https://twitter.com/otaneto
 
