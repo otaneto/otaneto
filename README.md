@@ -4,9 +4,9 @@
 
 ## 📊 Github Stats
 <div style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api?username=otaneto&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaneto&show_icons=true&theme=radical" />
   <a href="https://github.com/otaneto/github-readme-stats">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaneto&theme=radical&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaneto&theme=radical&layout=compact" />
   </a>
 </div>
 
