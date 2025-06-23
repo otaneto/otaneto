@@ -2,14 +2,6 @@
 
 - Front-end developer, currently working with 💚 Vue.js and getting up-to-date with ⚛ React!
 
-## 📊 Github Stats
-<div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaneto&show_icons=true&theme=radical&count_private=true" />
-  <a href="https://github.com/otaneto/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaneto&theme=radical&layout=compact&langs_count=8" />
-  </a>
-</div>
-
 <br>
 
 ## 🧑🏾‍💻 Languages and Tools
