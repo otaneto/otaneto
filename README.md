@@ -1,6 +1,7 @@
 ### Hi there! My name is Otacílio aka Ota 😎
 
 - Front-end developer, currently working with 💚 Vue.js and getting up-to-date with ⚛ React!
+- Learning Node.js 💚 and Ruby on Rails 💎
 
 <br>
 
@@ -18,6 +19,8 @@
   <img width="40" height="40" title="Nuxt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img width="40" height="40" title="Vuetify" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
   <img width="40" height="40" title="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img width="40" height="40" title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+            
 </div>
 
 <br>
